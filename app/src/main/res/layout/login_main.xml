@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="24dp"
+        android:text="Este usuario será permanente y tendrá el control completo de la aplicación"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <requestFocus
+        android:layout_alignTop="@+id/editText1"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/textViewFirst"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView4"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="14dp"
+        android:text="Ingrese su correo electrónico:"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textViewFirst"
+        android:layout_below="@+id/textViewFirst"
+        android:layout_toLeftOf="@+id/imageButton1"
+        android:ems="10"
+        android:inputType="textEmailAddress" />
+
+    <ImageButton
+        android:id="@+id/imageButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/editText1"
+        android:layout_alignRight="@+id/textViewFirst"
+        android:layout_below="@+id/textViewFirst"
+        android:onClick="AceptarInicial"
+        android:src="@android:drawable/ic_input_add" />
+
+</RelativeLayout>

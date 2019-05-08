@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/home/adrian/Documents/UPB/Control1/app/build/intermediates/res/merged/debug/layout_intercepted_main.xml.flat",
+        "source": "/home/adrian/Documents/UPB/Control1/app/src/main/res/layout/intercepted_main.xml"
+    },
+    {
+        "merged": "/home/adrian/Documents/UPB/Control1/app/build/intermediates/res/merged/debug/drawable_list_item_pressed.xml.flat",
+        "source": "/home/adrian/Documents/UPB/Control1/app/src/main/res/drawable/list_item_pressed.xml"
+    },
+    {
+        "merged": "/home/adrian/Documents/UPB/Control1/app/build/intermediates/res/merged/debug/drawable_back.jpg.flat",
+        "source": "/home/adrian/Documents/UPB/Control1/app/src/main/res/drawable/back.jpg"
+    },
+    {
+        "merged": "/home/adrian/Documents/UPB/Control1/app/build/intermediates/res/merged/debug/layout_titulo_main.xml.flat",
+        "source": "/home/adrian/Documents/UPB/Control1/app/src/main/res/layout/titulo_main.xml"
+    },
+    {
+        "merged": "/home/adrian/Documents/UPB/Control1/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/adrian/Documents/UPB/Control1/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/adrian/Documents/UPB/Control1/app/build/intermediates/res/merged/debug/drawable_gradient_shape_inverted.xml.flat",
+        "source": "/home/adrian/Documents/UPB/Control1/app/src/main/res/drawable/gradient_shape_inverted.xml"
+    },
+    {
+        "merged": "/home/adrian/Documents/UPB/Control1/app/build/intermediates/res/merged/debug/drawable_selector.xml.flat",
+        "source": "/home/adrian/Documents/UPB/Control1/app/src/main/res/drawable/selector.xml"
+    },
+    {
+        "merged": "/home/adrian/Documents/UPB/Control1/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/adrian/Documents/UPB/Control1/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/adrian/Documents/UPB/Control1/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/adrian/Documents/UPB/Control1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/adrian/Documents/UPB/Control1/app/build/intermediates/res/merged/debug/drawable_gradient_shape.xml.flat",
+        "source": "/home/adrian/Documents/UPB/Control1/app/src/main/res/drawable/gradient_shape.xml"
+    },
+    {
+        "merged": "/home/adrian/Documents/UPB/Control1/app/build/intermediates/res/merged/debug/drawable_gradient_shape_red.xml.flat",
+        "source": "/home/adrian/Documents/UPB/Control1/app/src/main/res/drawable/gradient_shape_red.xml"
+    },
+    {
+        "merged": "/home/adrian/Documents/UPB/Control1/app/build/intermediates/res/merged/debug/layout_new_user_popup.xml.flat",
+        "source": "/home/adrian/Documents/UPB/Control1/app/src/main/res/layout/new_user_popup.xml"
+    },
+    {
+        "merged": "/home/adrian/Documents/UPB/Control1/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/adrian/Documents/UPB/Control1/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/adrian/Documents/UPB/Control1/app/build/intermediates/res/merged/debug/layout_pass_main.xml.flat",
+        "source": "/home/adrian/Documents/UPB/Control1/app/src/main/res/layout/pass_main.xml"
+    },
+    {
+        "merged": "/home/adrian/Documents/UPB/Control1/app/build/intermediates/res/merged/debug/layout_login_popup.xml.flat",
+        "source": "/home/adrian/Documents/UPB/Control1/app/src/main/res/layout/login_popup.xml"
+    },
+    {
+        "merged": "/home/adrian/Documents/UPB/Control1/app/build/intermediates/res/merged/debug/drawable_list_item_selected.xml.flat",
+        "source": "/home/adrian/Documents/UPB/Control1/app/src/main/res/drawable/list_item_selected.xml"
+    },
+    {
+        "merged": "/home/adrian/Documents/UPB/Control1/app/build/intermediates/res/merged/debug/layout_item.xml.flat",
+        "source": "/home/adrian/Documents/UPB/Control1/app/src/main/res/layout/item.xml"
+    },
+    {
+        "merged": "/home/adrian/Documents/UPB/Control1/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/home/adrian/Documents/UPB/Control1/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/adrian/Documents/UPB/Control1/app/build/intermediates/res/merged/debug/drawable_gradient_shape_green.xml.flat",
+        "source": "/home/adrian/Documents/UPB/Control1/app/src/main/res/drawable/gradient_shape_green.xml"
+    },
+    {
+        "merged": "/home/adrian/Documents/UPB/Control1/app/build/intermediates/res/merged/debug/layout_login_main.xml.flat",
+        "source": "/home/adrian/Documents/UPB/Control1/app/src/main/res/layout/login_main.xml"
+    },
+    {
+        "merged": "/home/adrian/Documents/UPB/Control1/app/build/intermediates/res/merged/debug/layout_login_popup_toggle.xml.flat",
+        "source": "/home/adrian/Documents/UPB/Control1/app/src/main/res/layout/login_popup_toggle.xml"
+    },
+    {
+        "merged": "/home/adrian/Documents/UPB/Control1/app/build/intermediates/res/merged/debug/layout_solve_problem_popup.xml.flat",
+        "source": "/home/adrian/Documents/UPB/Control1/app/src/main/res/layout/solve_problem_popup.xml"
+    },
+    {
+        "merged": "/home/adrian/Documents/UPB/Control1/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/adrian/Documents/UPB/Control1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/adrian/Documents/UPB/Control1/app/build/intermediates/res/merged/debug/layout_titulo_first.xml.flat",
+        "source": "/home/adrian/Documents/UPB/Control1/app/src/main/res/layout/titulo_first.xml"
+    }
+]
